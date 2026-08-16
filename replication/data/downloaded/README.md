@@ -31,7 +31,3 @@ This will:
    2006:01--2023:12).
 4. Generate the power simulation and sensitivity grid.
 5. Produce all figures.
-
-**No WRDS subscription or proprietary database access is required.**
-The conditioning factors (MKT, SMB, HML, RMW, CMA) are downloaded
-automatically from the Ken French Data Library.
